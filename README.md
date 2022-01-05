@@ -1,4 +1,4 @@
-# Computer Keyboard Training
+# Podcast Player
 
 Project inspired by James Q Quick initiative [Advent of Javascript](https://www.adventofjs.com/)
 
