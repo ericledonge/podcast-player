@@ -23,6 +23,8 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:jsx-a11y/recommended',
     'plugin:jest/recommended',
+    'plugin:@typescript-eslint/eslint-recommended',
+    'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended', // Make sure this is always the last element in the array.
   ],
   plugins: ['simple-import-sort', 'prettier', 'jest'],
